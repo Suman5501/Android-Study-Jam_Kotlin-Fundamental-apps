@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/score_fragment.xml",
+        "source": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml"
+    },
+    {
+        "merged": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_fragment.xml",
+        "source": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml"
+    },
+    {
+        "merged": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/title_fragment.xml",
+        "source": "/home/tasha/AndroidStudioProjects/Android-Study-Jam/GuessTheWord-Starter/app/src/main/res/layout/title_fragment.xml"
+    }
+]
